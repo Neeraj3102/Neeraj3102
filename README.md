@@ -130,7 +130,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj3102&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="48%" />
 </div>
 
 ---
