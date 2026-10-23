@@ -81,7 +81,17 @@
 
 ---
 
-### 💻 Tech Stack & Engineering Toolkit
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,wasm,python,java,cpp,sqlite,postgres,firebase,supabase,docker,git,githubactions,linux,fastapi,postman&theme=dark" alt="Neeraj Tech Stack" />
+  </a>
+</p>
+
+<details>
+<summary><b>🔍 Detailed Breakdown by Category (Click to expand)</b></summary>
+<br/>
 
 #### 🔹 Core Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -119,9 +129,23 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+</details>
+
 ---
 
-### 📊 GitHub Productivity & Activity
+### 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neeraj3102/Neeraj3102/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neeraj3102/Neeraj3102/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Neeraj3102/Neeraj3102/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
+### 📊 GitHub Productivity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neeraj3102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
