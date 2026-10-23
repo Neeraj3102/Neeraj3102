@@ -2,7 +2,7 @@
 
 # Hi there, I'm Neeraj 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&random=false&width=650&lines=Full-Stack+%26+Systems-Minded+Software+Engineer;Building+High-Performance+WebAssembly+Web+Apps;Algorithmic+Debt+Solvers+%26+Offline-First+PWAs;Passionate+about+Clean+Architecture+%26+UX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&random=false&width=650&height=60&lines=Full-Stack+%26+Systems-Minded+Software+Engineer;Building+High-Performance+WebAssembly+Web+Apps;Algorithmic+Debt+Solvers+%26+Offline-First+PWAs;Passionate+about+Clean+Architecture+%26+UX)](https://git.io/typing-svg)
 
 <p align="center">
   <b>Crafting zero-bloat, high-performance web applications and systems.</b><br/>
