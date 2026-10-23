@@ -125,12 +125,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Neeraj3102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj3102&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Neeraj3102&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj3102&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Neeraj3102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="48%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="48%" />
 </div>
 
 ---
